@@ -42,3 +42,19 @@ Once the app is installed, open the app.
 Check that GPS is enabled and grant the necessary permissions.
 Press the "OBTAIN OFFERS" button
 Watch how the app obtains the geographic coordinates and sends them to the API.
+
+
+In addition to the codes you will find the installation steps and two videos of the app running.
+
+
+
+
+
+
+
+
+
+
+
+
+
